@@ -89,7 +89,7 @@ services.AddScoped<XService>();
 **Steps:**
 - Register `XService` as **Scoped** in the `AddRepositories()` method
 
-Your service can now be injected into any API Controller!
+Your service can now be injected and used into any API Controller!
 
 ---
 
