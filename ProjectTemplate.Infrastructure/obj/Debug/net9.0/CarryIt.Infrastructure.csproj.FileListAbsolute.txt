@@ -1,0 +1,16 @@
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/bin/Debug/net9.0/CarryIt.Infrastructure.deps.json
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/bin/Debug/net9.0/CarryIt.Infrastructure.dll
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/bin/Debug/net9.0/CarryIt.Infrastructure.pdb
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/bin/Debug/net9.0/CarryIt.Domain.dll
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/bin/Debug/net9.0/CarryIt.Domain.pdb
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/obj/Debug/net9.0/CarryIt.Infrastructure.csproj.AssemblyReference.cache
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/obj/Debug/net9.0/CarryIt.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/obj/Debug/net9.0/CarryIt.Infrastructure.AssemblyInfoInputs.cache
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/obj/Debug/net9.0/CarryIt.Infrastructure.AssemblyInfo.cs
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/obj/Debug/net9.0/CarryIt.Infrastructure.csproj.CoreCompileInputs.cache
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/obj/Debug/net9.0/CarryIt.Infrastructure.sourcelink.json
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/obj/Debug/net9.0/CarryIt..EC424DDE.Up2Date
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/obj/Debug/net9.0/CarryIt.Infrastructure.dll
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/obj/Debug/net9.0/refint/CarryIt.Infrastructure.dll
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/obj/Debug/net9.0/CarryIt.Infrastructure.pdb
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Infrastructure/obj/Debug/net9.0/ref/CarryIt.Infrastructure.dll

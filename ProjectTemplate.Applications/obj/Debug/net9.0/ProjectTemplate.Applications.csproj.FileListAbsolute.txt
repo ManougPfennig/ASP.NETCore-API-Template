@@ -1,0 +1,17 @@
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/bin/Debug/net9.0/ProjectTemplate.Applications.deps.json
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/bin/Debug/net9.0/ProjectTemplate.Applications.dll
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/bin/Debug/net9.0/ProjectTemplate.Applications.pdb
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/bin/Debug/net9.0/ProjectTemplate.Domain.dll
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/bin/Debug/net9.0/ProjectTemplate.Infrastructure.dll
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/bin/Debug/net9.0/ProjectTemplate.Domain.pdb
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/bin/Debug/net9.0/ProjectTemplate.Infrastructure.pdb
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/obj/Debug/net9.0/ProjectTemplate.Applications.csproj.AssemblyReference.cache
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/obj/Debug/net9.0/ProjectTemplate.Applications.GeneratedMSBuildEditorConfig.editorconfig
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/obj/Debug/net9.0/ProjectTemplate.Applications.AssemblyInfoInputs.cache
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/obj/Debug/net9.0/ProjectTemplate.Applications.AssemblyInfo.cs
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/obj/Debug/net9.0/ProjectTemplate.Applications.csproj.CoreCompileInputs.cache
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/obj/Debug/net9.0/ProjectT.A83B36FB.Up2Date
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/obj/Debug/net9.0/ProjectTemplate.Applications.dll
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/obj/Debug/net9.0/refint/ProjectTemplate.Applications.dll
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/obj/Debug/net9.0/ProjectTemplate.Applications.pdb
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/obj/Debug/net9.0/ref/ProjectTemplate.Applications.dll

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BBZAOKR7weu3rAHpUJFhMct4Iu6VcyUHcItpZAV6qS0=",
+  "Source": "ProjectTemplate.API",
+  "BasePath": "_content/ProjectTemplate.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

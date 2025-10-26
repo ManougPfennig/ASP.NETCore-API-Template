@@ -1,0 +1,11 @@
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/bin/Debug/net9.0/ProjectTemplate.Domain.deps.json
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/bin/Debug/net9.0/ProjectTemplate.Domain.dll
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/bin/Debug/net9.0/ProjectTemplate.Domain.pdb
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/obj/Debug/net9.0/ProjectTemplate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/obj/Debug/net9.0/ProjectTemplate.Domain.AssemblyInfoInputs.cache
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/obj/Debug/net9.0/ProjectTemplate.Domain.AssemblyInfo.cs
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/obj/Debug/net9.0/ProjectTemplate.Domain.csproj.CoreCompileInputs.cache
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/obj/Debug/net9.0/ProjectTemplate.Domain.dll
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/obj/Debug/net9.0/refint/ProjectTemplate.Domain.dll
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/obj/Debug/net9.0/ProjectTemplate.Domain.pdb
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/obj/Debug/net9.0/ref/ProjectTemplate.Domain.dll

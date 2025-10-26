@@ -1,0 +1,15 @@
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/bin/Debug/net9.0/ProjectTemplate.Infrastructure.deps.json
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/bin/Debug/net9.0/ProjectTemplate.Infrastructure.dll
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/bin/Debug/net9.0/ProjectTemplate.Infrastructure.pdb
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/bin/Debug/net9.0/ProjectTemplate.Domain.dll
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/bin/Debug/net9.0/ProjectTemplate.Domain.pdb
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/obj/Debug/net9.0/ProjectTemplate.Infrastructure.csproj.AssemblyReference.cache
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/obj/Debug/net9.0/ProjectTemplate.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/obj/Debug/net9.0/ProjectTemplate.Infrastructure.AssemblyInfoInputs.cache
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/obj/Debug/net9.0/ProjectTemplate.Infrastructure.AssemblyInfo.cs
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/obj/Debug/net9.0/ProjectTemplate.Infrastructure.csproj.CoreCompileInputs.cache
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/obj/Debug/net9.0/ProjectT.9DEBB860.Up2Date
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/obj/Debug/net9.0/ProjectTemplate.Infrastructure.dll
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/obj/Debug/net9.0/refint/ProjectTemplate.Infrastructure.dll
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/obj/Debug/net9.0/ProjectTemplate.Infrastructure.pdb
+/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/obj/Debug/net9.0/ref/ProjectTemplate.Infrastructure.dll

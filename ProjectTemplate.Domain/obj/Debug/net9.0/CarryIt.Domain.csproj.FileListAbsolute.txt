@@ -1,0 +1,12 @@
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Domain/obj/Debug/net9.0/CarryIt.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Domain/obj/Debug/net9.0/CarryIt.Domain.AssemblyInfoInputs.cache
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Domain/obj/Debug/net9.0/CarryIt.Domain.AssemblyInfo.cs
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Domain/obj/Debug/net9.0/CarryIt.Domain.csproj.CoreCompileInputs.cache
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Domain/obj/Debug/net9.0/CarryIt.Domain.sourcelink.json
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Domain/bin/Debug/net9.0/CarryIt.Domain.deps.json
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Domain/bin/Debug/net9.0/CarryIt.Domain.dll
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Domain/bin/Debug/net9.0/CarryIt.Domain.pdb
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Domain/obj/Debug/net9.0/CarryIt.Domain.dll
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Domain/obj/Debug/net9.0/refint/CarryIt.Domain.dll
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Domain/obj/Debug/net9.0/CarryIt.Domain.pdb
+/home/manoug/Bureau/code/repo/CarryIt.API/CarryIt.Domain/obj/Debug/net9.0/ref/CarryIt.Domain.dll
