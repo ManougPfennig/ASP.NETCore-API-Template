@@ -1,4 +1,3 @@
-using System;
 using System.Net;
 using ProjectTemplate.Domain.Exceptions;
 

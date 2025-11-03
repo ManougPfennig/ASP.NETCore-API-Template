@@ -726,11 +726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/ProjectTemplate.Applications.csproj",
+      "projectUniqueName": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Applications/ProjectTemplate.Applications.csproj",
       "projectName": "ProjectTemplate.Applications",
-      "projectPath": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/ProjectTemplate.Applications.csproj",
+      "projectPath": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Applications/ProjectTemplate.Applications.csproj",
       "packagesPath": "/home/manoug/.nuget/packages/",
-      "outputPath": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/obj/",
+      "outputPath": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Applications/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/manoug/.nuget/NuGet/NuGet.Config"
@@ -746,11 +746,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/ProjectTemplate.Domain.csproj": {
-              "projectPath": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/ProjectTemplate.Domain.csproj"
+            "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Domain/ProjectTemplate.Domain.csproj": {
+              "projectPath": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Domain/ProjectTemplate.Domain.csproj"
             },
-            "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/ProjectTemplate.Infrastructure.csproj": {
-              "projectPath": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/ProjectTemplate.Infrastructure.csproj"
+            "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Infrastructure/ProjectTemplate.Infrastructure.csproj": {
+              "projectPath": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Infrastructure/ProjectTemplate.Infrastructure.csproj"
             }
           }
         }

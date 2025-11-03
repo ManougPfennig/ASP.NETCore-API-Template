@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/ProjectTemplate.Domain.csproj": {}
+    "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Domain/ProjectTemplate.Domain.csproj": {}
   },
   "projects": {
-    "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/ProjectTemplate.Domain.csproj": {
+    "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Domain/ProjectTemplate.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/ProjectTemplate.Domain.csproj",
+        "projectUniqueName": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Domain/ProjectTemplate.Domain.csproj",
         "projectName": "ProjectTemplate.Domain",
-        "projectPath": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/ProjectTemplate.Domain.csproj",
+        "projectPath": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Domain/ProjectTemplate.Domain.csproj",
         "packagesPath": "/home/manoug/.nuget/packages/",
-        "outputPath": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/obj/",
+        "outputPath": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/manoug/.nuget/NuGet/NuGet.Config"

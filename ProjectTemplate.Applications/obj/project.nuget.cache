@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/kOZV+s0WmA=",
+  "dgSpecHash": "7/07IleUzLA=",
   "success": true,
-  "projectFilePath": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/ProjectTemplate.Applications.csproj",
+  "projectFilePath": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Applications/ProjectTemplate.Applications.csproj",
   "expectedPackageFiles": [
     "/home/manoug/.nuget/packages/microsoft.entityframeworkcore/9.0.10/microsoft.entityframeworkcore.9.0.10.nupkg.sha512",
     "/home/manoug/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.10/microsoft.entityframeworkcore.abstractions.9.0.10.nupkg.sha512",

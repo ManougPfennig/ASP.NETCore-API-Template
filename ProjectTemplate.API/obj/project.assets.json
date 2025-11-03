@@ -2942,11 +2942,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.API/ProjectTemplate.API.csproj",
+      "projectUniqueName": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.API/ProjectTemplate.API.csproj",
       "projectName": "ProjectTemplate.API",
-      "projectPath": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.API/ProjectTemplate.API.csproj",
+      "projectPath": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.API/ProjectTemplate.API.csproj",
       "packagesPath": "/home/manoug/.nuget/packages/",
-      "outputPath": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.API/obj/",
+      "outputPath": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/manoug/.nuget/NuGet/NuGet.Config"
@@ -2962,11 +2962,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/ProjectTemplate.Applications.csproj": {
-              "projectPath": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Applications/ProjectTemplate.Applications.csproj"
+            "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Applications/ProjectTemplate.Applications.csproj": {
+              "projectPath": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Applications/ProjectTemplate.Applications.csproj"
             },
-            "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/ProjectTemplate.Infrastructure.csproj": {
-              "projectPath": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Infrastructure/ProjectTemplate.Infrastructure.csproj"
+            "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Infrastructure/ProjectTemplate.Infrastructure.csproj": {
+              "projectPath": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Infrastructure/ProjectTemplate.Infrastructure.csproj"
             }
           }
         }

@@ -2,11 +2,11 @@ using ProjectTemplate.Applications.Base;
 using ProjectTemplate.Domain.Exceptions;
 using ProjectTemplate.Domain.Models;
 using ProjectTemplate.Infrastructure.Repository;
-using Microsoft.EntityFrameworkCore;
+using ProjectTemplate.Applications.Interfaces;
 
 namespace ProjectTemplate.Applications.Services;
 
-public class MailingListService(MailingListRepository repository) : ServiceBase<MailingListRepository, MailingList>(repository)
+public class MailingListService(MailingListRepository repository) : ServiceBase<MailingListRepository, MailingList>(repository), IMailingListService
 {
 	public async Task<MailingList> CreateAsync(string email)
 	{
@@ -24,5 +24,25 @@ public class MailingListService(MailingListRepository repository) : ServiceBase<
 		};
 
 		return await AddAsync(form);
+	}
+
+	public async Task RemoveAsync(Guid deletionKey)
+	{
+		MailingList? email = await FirstOrDefaultAsync(e => e.DeletionKey == deletionKey)
+			?? throw new NotFoundException("The specified key does not exist.");
+
+		await DeleteAsync(email);
+	}
+
+	public async Task ConfirmEmailAsync(Guid confirmationKey)
+	{
+		MailingList? email = await FirstOrDefaultAsync(e => e.ConfirmationKey == confirmationKey)
+			?? throw new NotFoundException("The specified key does not exist.");
+
+		if (email.IsEmailValidated == false)
+		{
+			email.IsEmailValidated = true;
+			await UpdateAsync(email);
+		}
 	}
 }

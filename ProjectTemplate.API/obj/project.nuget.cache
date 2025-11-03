@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z42GEb7O9/Y=",
+  "dgSpecHash": "0u4vKCZ7W1c=",
   "success": true,
-  "projectFilePath": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.API/ProjectTemplate.API.csproj",
+  "projectFilePath": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.API/ProjectTemplate.API.csproj",
   "expectedPackageFiles": [
     "/home/manoug/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/manoug/.nuget/packages/microsoft.aspnetcore.openapi/9.0.10/microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",

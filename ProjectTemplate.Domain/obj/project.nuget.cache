@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "soYVufDqitE=",
+  "dgSpecHash": "J9d1RVPmwaQ=",
   "success": true,
-  "projectFilePath": "/home/manoug/Source/ProjectTemplate.API/ProjectTemplate.Domain/ProjectTemplate.Domain.csproj",
+  "projectFilePath": "/home/manoug/Source/ASP.NETCore-API-Template/ProjectTemplate.Domain/ProjectTemplate.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
