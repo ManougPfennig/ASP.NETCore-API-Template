@@ -80,6 +80,17 @@ public class XService : ServiceBase<XRepository, X>
 - Inject the `XRepository`  
 - Add your custom business logic methods  
 
+### `/ProjectTemplate.Applications/DependencyInjection.cs`
+
+```csharp
+services.AddScoped<XService>();
+```
+
+**Steps:**
+- Register `XService` as **Scoped** in the `AddRepositories()` method
+
+Your service can now be injected and used into any API Controller!
+
 ---
 
 ## Useful Commands
